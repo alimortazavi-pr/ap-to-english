@@ -1,6 +1,6 @@
 {
   "name": "ap-to-english",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "convert persian and arabic numbers to english numbers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/alimortazavi-pr/ap-to-english/issues"
   },
-  "homepage": "https://github.com/alimortazavi-pr/ap-to-english#readme"
+  "homepage": "https://github.com/alimortazavi-pr/ap-to-english#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.6"
+  }
 }

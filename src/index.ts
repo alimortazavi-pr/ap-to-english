@@ -11,3 +11,4 @@ function convertAPToEnglish(number: number | string): string {
 }
 
 export default convertAPToEnglish;
+module.exports = convertAPToEnglish;
