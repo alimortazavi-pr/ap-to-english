@@ -1,0 +1,28 @@
+{
+  "name": "ap-to-english",
+  "version": "0.0.1",
+  "description": "convert persian and arabic numbers to english numbers",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimortazavi-pr/ap-to-english.git"
+  },
+  "keywords": [
+    "number",
+    "english",
+    "english",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Ali Mortazavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimortazavi-pr/ap-to-english/issues"
+  },
+  "homepage": "https://github.com/alimortazavi-pr/ap-to-english#readme"
+}
