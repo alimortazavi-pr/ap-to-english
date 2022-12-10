@@ -8,7 +8,7 @@ npm install ap-to-english
 ## Usage
 
 ```js
-import convertToEnglish from 'num-to-english';
+import convertToEnglish from 'ap-to-english';
 
 //Convert
 convertToEnglish('۱۳۴۵۶۷۸' or '١٢٣٤٥٦٧٨'); // 12345678
