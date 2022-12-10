@@ -1,6 +1,6 @@
 {
   "name": "ap-to-english",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "convert persian and arabic numbers to english numbers",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
